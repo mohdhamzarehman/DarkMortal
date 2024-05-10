@@ -1,7 +1,7 @@
 [![img1](https://i.imgur.com/dR5Oemq.gif)]()
 
 <h1 align="center">
-    <b>Hi , I'm Saptarshi Dey </b>
+    <b>Hi , I'm Hamza </b>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
     <br/><img src="https://komarev.com/ghpvc/?username=DarkMortal&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" />
 </h1>
@@ -28,9 +28,8 @@
     <picture> <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif"></picture>
     </div><div><ul>
         <li>A passionate Self-taught Software developer</li>
-        <li>Playing chess in spare time on <a href="https://www.chess.com/member/legendrarywarrior" target="_blank">chess.com</a></li>
-        <li>Currently learning Digital Signal Processing</li>
-        <li>Check out my <a href="https://opensea.io/collection/synthesized-infinity" target="_blank">NFT Collection</a></li>
+        <li>Playing chess in spare time on <a href="https://https://www.chess.com/member/hamzarehman777" target="_blank">chess.com</a></li>
+        <li>Currently learning ReactJs</li>
     </ul>
 </div>
 
@@ -54,17 +53,13 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-    ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 - **Softwares and Tools**:
 
@@ -72,34 +67,18 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 - **Databases**:
-
-    ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
     ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
     ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-- **Fullstack**:
-
-    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-    ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
     ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
-<div align="center">
-    <h1><u>Stalk my Spotify</u></h1>
-    <a href='https://spotify-github-profile.vercel.app/api/view?uid=31hmsdhy5tvxnxgzqcpyuavv2f64&redirect=true' target='_blank'>
-        <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=31hmsdhy5tvxnxgzqcpyuavv2f64&cover_image=true&theme=default&show_offline=false&background_color=111827&bar_color=0963e3&bar_color_cover=false"/></a>
-</div>
-
 ---
 <div align="center">
     <h1><strong>Follow me around the web:</strong><br></h1>
